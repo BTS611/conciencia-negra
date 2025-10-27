@@ -1,4 +1,4 @@
-// Exemplo de funcionalidade simples com JavaScript
-document.addEventListener('DOMContentLoaded', function() {
-    console.log('Página carregada com sucesso!');
+// Exemplo simples de interação
+document.addEventListener('DOMContentLoaded', () => {
+    console.log("Página da Consciência Negra carregada com sucesso!");
 });
