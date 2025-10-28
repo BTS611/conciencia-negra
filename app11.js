@@ -1,4 +1,5 @@
-// Exemplo simples de interação
-document.addEventListener('DOMContentLoaded', () => {
-    console.log("Página da Consciência Negra carregada com sucesso!");
-});
+function trocarfoto() {
+    menubar.innerHTML = `<img src= "foto2.jpg" alt= "rap image">`;
+
+
+}
