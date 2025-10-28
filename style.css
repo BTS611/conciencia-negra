@@ -27,6 +27,7 @@ body {
 /* Cabeçalho */
 header {
     margin-bottom: 40px;
+    border:4px solid #f2f2f2;
 }
 
 header h1 {
@@ -40,7 +41,7 @@ header p {
     color: #ccc;
 }
 
-/* Conteúdo */
+
 .conteudo {
     margin-bottom: 50px;
 }
@@ -58,7 +59,7 @@ header p {
     line-height: 1.7;
 }
 
-/* Mídia (imagem e vídeo centralizados) */
+
 .media {
     display: flex;
     justify-content: center;
@@ -72,10 +73,10 @@ header p {
     box-shadow: 0 0 20px rgba(255,255,255,0.1);
 }
 
-/* Vídeo */
+
 .video h3 {
     margin-bottom: 15px;
-    color: #f2f2f2;
+    color: #150b0b;
 }
 
 .video iframe {
