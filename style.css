@@ -85,8 +85,9 @@ header p {
     box-shadow: 0 0 20px rgba(255,255,255,0.2);
 }
 
-meu-botao:hover 
-  background-color #45a049 /* Cor ao passar o mouse */
+meu-botao:hover {
+  background-color: red /* Cor ao passar o mouse */
+}
 
 footer {
     margin-top: 30px;
