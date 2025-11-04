@@ -85,11 +85,21 @@ header p {
     box-shadow: 0 0 20px rgba(255,255,255,0.2);
 }
 
-meu-botao:hover {
-  background-color:#e32323;
-  font-size: 20%;
-  
+.meu-botao {
+  background-color: #4CAF50; /* Cor de fundo verde */
+  color: white;              /* Cor do texto */
+  border: none;              /* Remove a borda padrão */
+  padding: 12px 24px;        /* Espaçamento interno */
+  font-size: 16px;           /* Tamanho da fonte */
+  border-radius: 8px;        /* Bordas arredondadas */
+  cursor: pointer;           /* Muda o cursor ao passar por cima */
+  transition: background-color 0.3s ease; /* Animação suave */
 }
+
+.meu-botao:hover {
+  background-color: #45a049; /* Cor ao passar o mouse */
+}
+
 
 footer {
     margin-top: 30px;
