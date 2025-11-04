@@ -1,5 +1,5 @@
 function trocarfoto() {
-    menubar.innerHTML = `<img src= "" alt= "rap image">`;
+    menubar.innerHTML = `<img src= "rap.jpg navio-negrero.jpg" alt= "rap image">`;
 
 
 }
