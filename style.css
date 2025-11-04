@@ -86,7 +86,9 @@ header p {
 }
 
 meu-botao:hover {
-  background-color: red /* Cor ao passar o mouse */
+  background-color:#e32323;
+  font-size: 20%;
+  
 }
 
 footer {
